@@ -1,6 +1,6 @@
 # Guess Number
 
-Click here to see live demo
+Click here to see live [demo](https://priyaraj7.github.io/guess-number/)
 
 ### Instructions
 
